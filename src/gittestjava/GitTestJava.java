@@ -18,6 +18,7 @@ public class GitTestJava {
         // TODO code application logic here
         
         // tz: first
+		// tz: second
     }
     
 }
