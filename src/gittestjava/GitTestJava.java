@@ -21,6 +21,8 @@ public class GitTestJava {
 		// tz: second
 		// unsteged
 		// unsteged
+        
+        System.out.println("Friday branch test");
     }
     
 }
